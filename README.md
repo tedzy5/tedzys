@@ -1,2 +1,2 @@
 # tedzys
-TeDzY's CMS
+ TeDzY's CMS 
